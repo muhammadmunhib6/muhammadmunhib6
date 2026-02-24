@@ -61,10 +61,10 @@ Python, AI, NLP, Machine Learning, Tech, Gaming and Future Careers
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
 
 <!-- Sanity -->
-<img src="https://www.vectorlogo.zone/logos/sanityio/sanityio-icon.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" width="40" height="40"/>
 
-<!-- n8n -->
-<img src="https://www.vectorlogo.zone/logos/n8n/n8n-icon.svg" width="40" height="40"/>
+<!-- n8n (working svg) -->
+<img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" width="40" height="40"/>
 
 </p>
 ---
