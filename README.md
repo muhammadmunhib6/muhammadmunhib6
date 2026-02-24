@@ -63,8 +63,8 @@ Python, AI, NLP, Machine Learning, Tech, Gaming and Future Careers
 <!-- Sanity -->
 <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" width="40" height="40"/>
 
-<!-- n8n (working svg) -->
-<img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" width="40" height="40"/>
+<!-- Next.js -->
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40"/>
 
 </p>
 ---
