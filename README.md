@@ -67,6 +67,7 @@ Python, AI, NLP, Machine Learning, Tech, Gaming and Future Careers
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40"/>
 
 </p>
+
 ---
 
 🎯 Goals for 2026
